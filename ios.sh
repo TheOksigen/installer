@@ -1,4 +1,4 @@
-MESAJ="NeonUserBot UserBot Ucun ios kurulumu"
+MESAJ="NeonUserBot UserBot üçün ios qurulumu"
 MESAJ+="\nTelegram: @NeonUserBot"
 echo y | apk update
 clear
@@ -14,12 +14,12 @@ echo -e $MESAJ
 echo "TeleThon Yüklənir"
 python3 -m pip install telethon
 echo "Repo Yüklənir..."
-git clone https://github.com/TheOksigen/neon_userbot
+git clone https://github.com/nusrte/NeonUserBot
 clear
 echo -e $MESAJ
 clear
 echo -e $MESAJ
-echo " requirements Yüklənir"
+echo "Requirements Yüklənir"
 cd neon_installer
 python3 -m pip install wheel
 python3 -m pip install -r requirements.txt
