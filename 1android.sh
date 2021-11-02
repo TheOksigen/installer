@@ -1,4 +1,4 @@
-MESAJ="NeonUserBot Test !"
+MESAJ="NeonUserBot Basic Version!"
 MESAJ+="\nTG: @NeonUserBot"
 pkg update -y
 apt updete 
