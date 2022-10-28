@@ -16,7 +16,7 @@ echo -e $MESAJ
 echo "TeleThon Yüklənir"
 pip install telethon
 echo "Repo klonlanır..."
-git clone https://github.com/TheOksigen/neoninstaller
+git clone https://github.com/SiyahimsinXSs/xiyar
 clear
 echo -e $MESAJ
 cd neoninstaller
