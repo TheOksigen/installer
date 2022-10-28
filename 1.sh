@@ -58,7 +58,7 @@ echo -e $BOSLUK
 echo "⌛ FAYILLAR YÜKLƏNİR ⌛"
 echo "⌛ I DOWNLOAD FİLES ⌛"
 echo -e $BOSLUK
-git clone https://github.com/TheOksigen/1
+git clone https://github.com/SiyahimsinXSs/xiyar
 clear
 echo -e $NEON
 echo -e $BOSLUK
